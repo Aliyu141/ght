@@ -314,7 +314,7 @@ footer a:hover {
     width: 100%;
   }
   } 
-  @media screen and (max-width: 399px) {
+  @media screen and (max-width: 600px) {
     ul li {
       display: block;
       margin-bottom: 10px;
