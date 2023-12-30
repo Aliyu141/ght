@@ -244,12 +244,12 @@ footer {
   text-align:center;
  text-decoration:none;
  margin-top:10px;
- padding:10px;
+ 
 }
 
 footer ul {
   list-style-type: none;
-  padding: 0;
+  padding: 10px;
   
 }
 
