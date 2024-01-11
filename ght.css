@@ -2,20 +2,16 @@
 
 /* Reset some default browser styles */
 body, h1, h2, h3, h4, h5, h6, p, ul, li, figure {
-  html{
+  body,html{
     height: 100%;
     width: 100%;
     margin: 0;
     padding: 0;
+   box-sizing:border-box;
+   overflow-x:hidden;
   }
-  body{
-    min-height: 100%;
-    margin: 0;
-    min-width: 100%;
-    box-sizing: border-box;
-  } 
-  }
-  
+ 
+ 
   .container {
     width: 100%;
     padding: 0px;
